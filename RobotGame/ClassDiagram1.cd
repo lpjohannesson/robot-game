@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="RobotGame.Systems.AlienEnemySystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIQBACAAAFAQEQAAAAAAAAAhAAgAAAgAgAAAAQIAAAA=</HashCode>
+      <FileName>Systems\AlienEnemySystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.BatterySystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAABAQAQAAAABgAAAAAAgAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\BatterySystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.BulletSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBACAAABAQAQAAAABAEAAgAAgAAAgBAQAAAAAAAAA=</HashCode>
+      <FileName>Systems\BulletSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.CollectibleSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAFAAAQAAAAAAAAAAAAgAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\CollectibleSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.EnemySystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIABAAAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\EnemySystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.GearSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAARAQAQAAAAAAAAAAIAgAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\GearSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.PhysicsAreaRendererSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAgAAACAAAAAAEA=</HashCode>
+      <FileName>Systems\PhysicsAreaRendererSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.PhysicsAreaSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\PhysicsAreaSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.PhysicsBodyRendererSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAgAAACAAAAAAEA=</HashCode>
+      <FileName>Systems\PhysicsBodyRendererSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.PhysicsBodySystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAQAAAADAAAAABAAAAAAAAAAAgAAAAAI=</HashCode>
+      <FileName>Systems\PhysicsBodySystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.PlayerSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoQBACEAANAAHQACgEAECAQgACggAAgGAAAUAAAAgIA=</HashCode>
+      <FileName>Systems\PlayerSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.SpriteAnimatorSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAAAAAAAgAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\SpriteAnimatorSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Systems.SpriteSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\SpriteSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Scenes.AboutScene" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAiAAAAAAAAACAIAAAA=</HashCode>
+      <FileName>Scenes\AboutScene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Scenes.LoseScene" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAwAAAAAAAAAAAAiAAABAAAAACAAAAAA=</HashCode>
+      <FileName>Scenes\LoseScene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Scenes.MainGameScene" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAAAwAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\MainGameScene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.Scenes.MenuScene" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAQAAAgiAAAAAAAgACAAAAAA=</HashCode>
+      <FileName>Scenes\MenuScene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RobotGame.AudioController" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAAAAAAQAAAAAgAAAAAAgQAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>AudioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.ButtonList" Collapsed="true">
+    <Position X="2.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAgAAAAAAAAACAAgAQAAAAQAAAAAACAA=</HashCode>
+      <FileName>ButtonList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.EnemyFactory" Collapsed="true">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAAAAAAAAAAAAQAMAgAAQAAQgQAAAAAAAA=</HashCode>
+      <FileName>EnemyFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.GameRect" Collapsed="true">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>GameRect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.GameWorld" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAgEAgwQEAAAAAIgABAgCBAwAghGAAQBAAIE=</HashCode>
+      <FileName>GameWorld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.GearDisplay" Collapsed="true">
+    <Position X="2.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgABAAAAAAAAAAgAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>GearDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.Health" Collapsed="true">
+    <Position X="4" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.HealthBar" Collapsed="true">
+    <Position X="5.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgBAAAgAgAAAAAAAAAAgAAAAAAgABAAAAAAA=</HashCode>
+      <FileName>HealthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.Input" Collapsed="true">
+    <Position X="7.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAAgAACAAAAAAAAAAAAACAAAABAAAA=</HashCode>
+      <FileName>Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.MenuText" Collapsed="true">
+    <Position X="9.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAAAAAAAAgAAAAAAAAAiAAAAAA=</HashCode>
+      <FileName>MenuText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.RectRenderer" Collapsed="true">
+    <Position X="11" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>RectRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.Renderer" Collapsed="true">
+    <Position X="12.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAEAA0MAIiCIAAAQCAhAIgQAQACUAAAFACQ=</HashCode>
+      <FileName>Renderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.RobotGame" Collapsed="true">
+    <Position X="7.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAEIAAAAGAAAAAAAAACAAAAAAgQ=</HashCode>
+      <FileName>RobotGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.SpriteAnimation" Collapsed="true">
+    <Position X="9.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQAAAAAAAE=</HashCode>
+      <FileName>SpriteAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.TextButton" Collapsed="true">
+    <Position X="11" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAAgAAAAAAAAAAACgAACAAAAAACAAAAAI=</HashCode>
+      <FileName>TextButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotGame.TextRenderer" Collapsed="true">
+    <Position X="12.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAACAAAAIAAAAAiAAAAAAACAIBAAAAAIA=</HashCode>
+      <FileName>TextRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="RobotGame.Systems.PlayerData" Collapsed="true">
+    <Position X="0.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACAAAAAAAAQAgAAABAAAAAAAAAAAQAAAAAQAEAAA=</HashCode>
+      <FileName>Systems\PlayerSystem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.AlienEnemyComponent" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Components\AlienEnemyComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.BatteryComponent" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\BatteryComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.BulletComponent" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Components\BulletComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.CollectibleComponent" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\CollectibleComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.EnemyComponent" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\EnemyComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.GearComponent" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\GearComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.HealthComponent" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Components\HealthComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.PhysicsAreaComponent" Collapsed="true">
+    <Position X="6.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\PhysicsAreaComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.PhysicsBodyComponent" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAgAAAAAAQAAAAAAAIAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Components\PhysicsBodyComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.PlayerComponent" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACQAAAAAAAAAA=</HashCode>
+      <FileName>Components\PlayerComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.PositionComponent" Collapsed="true">
+    <Position X="4.75" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\PositionComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.SpriteAnimatorComponent" Collapsed="true">
+    <Position X="6.75" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Components\SpriteAnimatorComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.SpriteComponent" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgAAAgAE=</HashCode>
+      <FileName>Components\SpriteComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.Components.VelocityComponent" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Components\VelocityComponent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.PhysicsAreaCollision" Collapsed="true">
+    <Position X="0.5" Y="11.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicsAreaCollision.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobotGame.PhysicsBodyCollision" Collapsed="true">
+    <Position X="2.75" Y="11.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicsBodyCollision.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="RobotGame.Systems.ISystem" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\ISystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RobotGame.Scenes.IGameScene" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\IGameScene.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="RobotGame.BulletType" Collapsed="true">
+    <Position X="0.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>BulletType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

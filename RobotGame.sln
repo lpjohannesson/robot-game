@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotGame", "RobotGame\RobotGame.csproj", "{4D403682-70A2-4667-BDF2-0D903902F68E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D403682-70A2-4667-BDF2-0D903902F68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D403682-70A2-4667-BDF2-0D903902F68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D403682-70A2-4667-BDF2-0D903902F68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D403682-70A2-4667-BDF2-0D903902F68E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25284ED6-C83C-47C3-8B92-459DC759C013}
+	EndGlobalSection
+EndGlobal
